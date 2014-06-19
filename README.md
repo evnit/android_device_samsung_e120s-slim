@@ -1,4 +1,2 @@
-android_device_samsung_e120s-slim 
-=================================
-
-device e120s Slimroms
+. build/envsetup.sh
+brunch slim_e120s-eng
